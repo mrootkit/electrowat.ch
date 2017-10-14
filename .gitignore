@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+dist/
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+.package-lock.json
+package-lock.json
